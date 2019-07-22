@@ -1,2 +1,7 @@
 mul()
+<<<<<<< HEAD
 add() # 주석
+=======
+add()
+sub()
+>>>>>>> develop
